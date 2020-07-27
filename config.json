@@ -7,22 +7,34 @@
   "ascent": 850,
   "glyphs": [
     {
-      "uid": "17ebadd1e3f274ff0205601eef7b9cc4",
-      "css": "help-circled",
+      "uid": "ae3so8q0b0n2h8esv9flua2nmwswa8fd",
+      "css": "mail",
       "code": 59392,
-      "src": "fontawesome"
+      "src": "modernpics"
     },
     {
-      "uid": "e82cedfa1d5f15b00c5a81c9bd731ea2",
-      "css": "info-circled",
+      "uid": "ma9pq3m9ye6f33psotqr8e68yyv7fbz6",
+      "css": "user",
       "code": 59393,
-      "src": "fontawesome"
+      "src": "modernpics"
     },
     {
-      "uid": "43ab845088317bd348dee1d975700c48",
-      "css": "ok-circled",
+      "uid": "b1ec8e90c2c85cf0035849980a3789b3",
+      "css": "twitter",
       "code": 59394,
-      "src": "fontawesome"
+      "src": "zocial"
+    },
+    {
+      "uid": "9b345d273b96183674779e05d64274af",
+      "css": "disqus",
+      "code": 59395,
+      "src": "zocial"
+    },
+    {
+      "uid": "24d1008bf15b6c02a5e7a6af026987dd",
+      "css": "github-text",
+      "code": 62215,
+      "src": "brandico"
     }
   ]
 }

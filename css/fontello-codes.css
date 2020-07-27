@@ -1,4 +1,6 @@
 
-.icon-help-circled:before { content: '\e800'; } /* '' */
-.icon-info-circled:before { content: '\e801'; } /* '' */
-.icon-ok-circled:before { content: '\e802'; } /* '' */
+.icon-mail:before { content: '\e800'; } /* '' */
+.icon-user:before { content: '\e801'; } /* '' */
+.icon-twitter:before { content: '\e802'; } /* '' */
+.icon-disqus:before { content: '\e803'; } /* '' */
+.icon-github-text:before { content: '\f307'; } /* '' */
